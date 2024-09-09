@@ -6,19 +6,20 @@ body{
     align-items: center;
     height: 400px;
     margin: 60px;
-    background-color: #222;
+    background-color: white;
 
 }
 
 .logo{
     margin-bottom: 20px;
+    background-color:whitesmoke;
     
 }
 .search{
    margin-bottom: 25px;
    border-radius: 3px;
    width: 35%;
-   background-color: #222;
+   background-color: whitesmoke;
 }
 
 .search input{
@@ -53,10 +54,10 @@ body{
 }
 
 .links a  {
-    color:#a8c7fa;
+    color: blue;
     text-decoration: none;
     margin: 0 10px;
 }
 p{
-    color: white;
+    color: black;
 }
